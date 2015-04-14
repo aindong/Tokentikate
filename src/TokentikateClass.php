@@ -9,7 +9,7 @@ use Aindong\Tokentikate\Exceptions\ExpiredException;
 
 use UnexpectedValueException;
 
-class Tokentikate {
+class TokentikateClass {
 
     protected $helper;
 
