@@ -1,0 +1,22 @@
+{
+    "name": "aindong/tokentikate",
+    "description": "A Json Web token(JWT) based authentication library implementation for laravel",
+    "keywords": ["jwt", "laravel token base", "authentication"],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5"
+    },
+    "license": "GPL 2",
+    "authors": [
+        {
+            "name": "Alleo Indong",
+            "email": "freedom_war550@live.com.ph"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Aindong\\Tokentikate\\": "src/"
+		}
+	},
+    "minimum-stability": "dev"
+}
